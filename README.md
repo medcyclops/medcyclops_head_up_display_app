@@ -1,4 +1,4 @@
-# Head up display app
+# MedCyclops head up display app
 
 This is the software for the medical imaging data streamer that powers MedCyclops.
 
